@@ -1,8 +1,7 @@
 package com.bloomtech.codealong.MagicEightBall.controller;
 
 import com.bloomtech.codealong.MagicEightBall.dao.MagicEightBallDao;
-import com.bloomtech.codealong.MagicEightBall.types.MagicEightBallRequest;
-import com.bloomtech.codealong.MagicEightBall.types.MagicEightBallResponse;
+import com.bloomtech.codealong.MagicEightBall.model.MagicEightBallResponse;
 import org.springframework.web.bind.annotation.*;
 
 import java.sql.Timestamp;
